@@ -11,7 +11,7 @@ JobPilot 是一款 **macOS 原生桌面应用**：把零散的招聘 JD（链接
 
 ## ✨ 核心功能
 
-- **AI 一键解析 JD**：支持链接爬取、纯文本、**图片/PDF（OCR）** 三种录入；大模型把非结构化 JD 转成结构化数据——岗位画像、职责要求、关键词、面试高频考点。![image-20260626170640784](/Users/bingo/Library/Application Support/typora-user-images/image-20260626170640784.png)
+- **AI 一键解析 JD**：支持链接爬取、纯文本、**图片/PDF（OCR）** 三种录入；大模型把非结构化 JD 转成结构化数据——岗位画像、职责要求、关键词、面试高频考点。![AI 解析 · JD录入](docs/screenshots/AI解析-JD录入.png)
 
   ![AI 解析 · 岗位信息](docs/screenshots/岗位详情-岗位信息.png)
 

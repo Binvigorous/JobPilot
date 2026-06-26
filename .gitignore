@@ -5,3 +5,7 @@ dist/
 *.db-journal
 .DS_Store
 *.local
+
+# 测试用招聘原始数据（仅保留 JD.png 供 MinerU 测试编译）
+data/*
+!data/JD.png

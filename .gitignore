@@ -6,6 +6,19 @@ dist/
 .DS_Store
 *.local
 
-# 测试用招聘原始数据（仅保留 JD.png 供 MinerU 测试编译）
-data/*
-!data/JD.png
+# 源码（仅本地开发，不对外开源）
+src/
+src-tauri/
+index.html
+package.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+postcss.config.mjs
+tsconfig.json
+vite.config.ts
+CLAUDE.md
+build_output.log
+data/
+
+# 旧后端（已弃用）
+server/

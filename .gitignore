@@ -6,17 +6,7 @@ dist/
 .DS_Store
 *.local
 
-# 源码（仅本地开发，不对外开源）
-src/
-src-tauri/
-index.html
-package.json
-pnpm-lock.yaml
-pnpm-workspace.yaml
-postcss.config.mjs
-tsconfig.json
-vite.config.ts
-CLAUDE.md
+# 构建/本地产物
 build_output.log
 data/
 
